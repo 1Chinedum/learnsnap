@@ -1,0 +1,6 @@
+{
+  "name": "LearnSnap",
+  "description": "Snap It. Understand It. Master It. A luxury AI-powered student learning platform and personal tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
