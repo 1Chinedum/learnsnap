@@ -1,0 +1,11 @@
+The Google Play and App Store logos are trademarks, so they must be the official badge images from each company.
+Download them (free) once your apps are published:
+
+  Google Play badge:  https://play.google.com/intl/en_us/badges/
+  App Store badge:    https://developer.apple.com/app-store/marketing/guidelines/  (Download on the App Store)
+
+Save them in this folder with exactly these names:
+  google-play.png   (or google-play.svg)
+  app-store.svg     (or app-store.png)
+
+The website then shows the official badges automatically.
